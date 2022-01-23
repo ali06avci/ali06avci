@@ -5,7 +5,11 @@
 <h3 align="center" > Full Stack Web Developer </h3>
 
 <p alignn="justify">
-    descriptions
+    I'm an engineer and working as Full Stack Mobile Developer. I'm 38 years old.
+    Graduated from Yildiz Technical University, Electronics and Communication Enginering.
+    Working in the IT industry for many years. My favorite programming languages are Java and JavaScript.
+    Now working on a mobile application which is developed with React Native project.
+   
 </p>
 
 <ul>
