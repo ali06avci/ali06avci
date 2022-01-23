@@ -14,5 +14,5 @@
 
 <ul>
     <li>I'm currently working on <b>Student Information System </b></li>
-    <li>Ask me about Java, Lambda Expressions, SQL, JDBC,API, HTML,CSS,MongoDB, Hibernate, SpringBoot and SDLC </li>
+    <li>Ask me about Java, Lambda Expressions, SQL, JDBC,API, HTML,CSS,MongoDB, Hibernate, SpringMVC and SDLC </li>
 </ul>
