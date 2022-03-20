@@ -1,4 +1,4 @@
-<img src="https://github.com/ali06avci/https-ali06avci.github.io./blob/2aaeef0403580d2a3cc9556fa49d90a3118bc351/external-content.duckduckgo.com.jpg">
+<img src="https://github.com/ali06avci/https-ali06avci.github.io./blob/c78c4a78c0db1714398430f83ff0eb0fe48b5f91/external-content.jpg">
 
 <h1 align="center">Hi, 👋 I'm Ali AVCI</h1>
 
